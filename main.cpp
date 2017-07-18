@@ -1,6 +1,6 @@
-#include <iostream>
+#include <iostream.h>
 #include<string.h>
-using namespace std;
+
 int main()
 {   
    int i,n,k,count = 0,j;
